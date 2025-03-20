@@ -21,8 +21,8 @@ pin = Pin(12, Pin.OUT)
 np = neopixel.NeoPixel(pin, 1)
 
 ####################### Configurar Wi-Fi ##########################
-ssid = "Gustavo"  # Substitua pelo nome da sua rede
-password = "mamaelinda"  # Substitua pela senha da sua rede
+ssid = "Teste"  # Substitua pelo nome da sua rede
+password = "JWTYUIO"  # Substitua pela senha da sua rede
 ##################################################################
 
 wlan = network.WLAN(network.STA_IF)
